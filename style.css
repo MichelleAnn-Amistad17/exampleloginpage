@@ -1,0 +1,53 @@
+.main_box {
+	height: auto;
+	width: 1200px;
+	margin:auto;
+}
+
+.sub_box{
+	height:650px; 
+	width:1000px;
+	float: left;
+}
+
+#menu_bar{
+	height:50px; 
+	width:1000px;	
+	background-color: red;
+	text-align: center;
+}
+
+#header{
+	height:100px; 
+	width:1000px;	
+	background-color: #3CB371;
+	text-align: center;
+	padding: 212;
+}
+
+#content_area{
+	height:100px; 
+	width:577px;	
+	background-color: #4169E1;
+	text-align: center;
+	padding: 212px;
+	font-weight: 800;
+}
+
+.side_bar{
+	height:650px; 
+	width:200px;
+	background-color: yellow;
+	float: right;
+	text-align: center;
+	padding: 212;
+}
+
+.footer{
+	height:50px; 
+	width:1200px;
+	background-color: black;
+	color: white; 
+	float: left;
+	text-align: center;
+}
